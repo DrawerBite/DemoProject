@@ -1,0 +1,7 @@
+.metadata/
+ControlUnit/.settings
+ControlUnit/Release
+ControlUnit/Debug
+StorageCell/.settings
+StorageCell/Release
+StorageCell/Debug
